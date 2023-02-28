@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tPbftVejfK3iG7IKhC6I9G+quhCuwCBavs+BlkKzMIWlZxbM+7Z70ezLi7OE27XJFYQqmgRCX7byHTYABMq4Cw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kyle\\Dropbox\\My PC (DESKTOP-FKBGLVA)\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ThroughTheAges\\ThroughTheAges.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kyle\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
